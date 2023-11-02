@@ -6,7 +6,7 @@ import React, {
 import { useSearchParams } from 'react-router-dom';
 import './ProductsList.scss';
 import { ProductCard } from '../ProductCard/ProductCard';
-import { Product, Sort } from '../../types/Product';
+import { Product } from '../../types/Product';
 import { getFinalPrice } from '../../helpers/getFinalPrice';
 import { Pagination } from '../Pagination/Pagination';
 
@@ -59,11 +59,11 @@ export const ProductsList: FC<Props> = ({ devices }) => {
   const sortedByDevices = useMemo(() => {
     return [...devices].sort((a: Product, b: Product) => {
       switch (sortBy) {
-        case Sort.Age:
+        case 'age':
           return a.age - b.age;
-        case Sort.Name:
+        case 'name':
           return a.name.localeCompare(b.name);
-        case Sort.Price:
+        case 'price':
           return getFinalPrice(a.price, a.discount)
           - getFinalPrice(b.price, b.discount);
         default:
@@ -90,9 +90,9 @@ export const ProductsList: FC<Props> = ({ devices }) => {
             value={sortBy}
             onChange={handleSortByChange}
           >
-            <option value={Sort.Age}>Newest</option>
-            <option value={Sort.Name}>Alphabetically</option>
-            <option value={Sort.Price}>Cheapest</option>
+            <option value="age">Newest</option>
+            <option value="name">Alphabetically</option>
+            <option value="price">Cheapest</option>
           </select>
         </div>
 
