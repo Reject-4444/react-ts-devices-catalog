@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7918a735.chunk.css",
+    "main.js": "./static/js/main.c6560051.chunk.js",
+    "main.js.map": "./static/js/main.c6560051.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.9781c897.chunk.js": "./static/js/2.9781c897.chunk.js",
+    "static/js/2.9781c897.chunk.js.map": "./static/js/2.9781c897.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.7918a735.chunk.css.map": "./static/css/main.7918a735.chunk.css.map",
+    "static/js/2.9781c897.chunk.js.LICENSE.txt": "./static/js/2.9781c897.chunk.js.LICENSE.txt",
+    "static/media/Accessories.b914f412.png": "./static/media/Accessories.b914f412.png",
+    "static/media/Navbar.scss": "./static/media/Magnificer.66a1fd86.svg",
+    "static/media/ProductCard.scss": "./static/media/HeartRed.d554a185.svg",
+    "static/media/Logo.c9417692.svg": "./static/media/Logo.c9417692.svg",
+    "static/media/Phones.cbed3047.png": "./static/media/Phones.cbed3047.png",
+    "static/media/Tablets.c198526a.png": "./static/media/Tablets.c198526a.png",
+    "static/media/App.scss": "./static/media/home-logo.e110292a.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/CartItem.scss": "./static/media/delete.d99189a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.9781c897.chunk.js",
+    "static/css/main.7918a735.chunk.css",
+    "static/js/main.c6560051.chunk.js"
+  ]
+}
