@@ -16,4 +16,3 @@ Feel free to explore the live version of the internet storefront, deployed for d
 - SASS
 - classnames
 - react-router-dom
-*
