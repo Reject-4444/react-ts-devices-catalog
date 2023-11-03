@@ -3,7 +3,7 @@ import React, {
   useContext,
 } from 'react';
 import cn from 'classnames';
-import { Link, useSearchParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { Product } from '../../types/Product';
 import './ProductCard.scss';
 import { NavbarContext } from '../../context/NavbarContext';
@@ -15,7 +15,6 @@ interface Props {
 
 export const ProductCard: FC<Props> = ({ product }) => {
   const modifiedImageUrl = product.imageUrl.replace('phones', 'products');
-  const [searchParams] = useSearchParams();
   const {
     handleAddToCartFn,
     handleLikeFn,
@@ -36,7 +35,6 @@ export const ProductCard: FC<Props> = ({ product }) => {
       className="card__link card--margin-vertical"
       to={{
         pathname: `/product/${id}`,
-        search: searchParams.toString(),
       }}
     >
       <div className="card">

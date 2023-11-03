@@ -37,7 +37,6 @@ export const Navbar = () => {
         <NavLink
           to={{
             pathname: '/',
-            search: searchParams.toString(),
           }}
           className="main-logo"
         >
@@ -49,7 +48,6 @@ export const Navbar = () => {
               <NavLink
                 to={{
                   pathname: '/',
-                  search: searchParams.toString(),
                 }}
                 className={generateClassesForLinks}
               >
