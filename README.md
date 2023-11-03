@@ -1,16 +1,16 @@
 **Project Description:**
 
-**react-devices-catalog** is an engaging internet storefront developed using React, TypeScript, SASS, classnames, and react-router-dom. The application serves as an immersive platform where users can explore a curated selection of electronic devices, including smartphones, tablets, and related accessories. It allows users to add items to their favorites and shopping cart, with all data cached in the local storage, ensuring the preservation of selected items even after page reloads.
+Repository here: https://github.com/Reject-4444/react-ts__devices-catalog.
 
-The integration of TypeScript ensures a robust and efficient development process, minimizing potential errors and enhancing the overall user experience. Leveraging SASS, the project maintains well-structured and easily maintainable CSS code, contributing to an appealing and intuitive user interface. The dynamic class assignment facilitated by the classnames library ensures the application's responsiveness and adaptability across diverse screen sizes and devices.
+Live version of the online store deployed for demonstration purposes: https://reject-4444.github.io/react-ts__devices-catalog/.
 
-Moreover, the inclusion of react-router-dom facilitates seamless navigation, enabling users to explore various product categories, add items to favorites and the cart, and experience a seamless and interactive browsing experience.
+react-devices-catalog is an interactive online store built using popular web technologies such as React, TypeScript, SASS, classnames, and react-router-dom. The platform showcases a collection of electronic devices like smartphones, tablets, and accessories, allowing users to browse and add items to their favorites and shopping cart. The use of local storage ensures that selected items persist even after refreshing the page.
 
-The project's repository can be accessed via the following link: [https://github.com/Reject-4444/react-ts__devices-catalog](https://github.com/Reject-4444/react-ts__devices-catalog).
+By integrating TypeScript, the development process is made more reliable and efficient, minimizing potential errors and improving the user experience. SASS is utilized to maintain well-organized CSS code, contributing to an attractive and user-friendly interface. The classnames library enables the application to adapt to various screen sizes and devices, ensuring a responsive layout.
 
-Feel free to explore the live version of the internet storefront, deployed for demonstration purposes: [https://reject-4444.github.io/react-ts__devices-catalog/](https://reject-4444.github.io/react-ts__devices-catalog/).
+Additionally, the inclusion of react-router-dom enables seamless navigation, allowing users to explore different product categories, add items to favorites and the cart, and enjoy a smooth and engaging browsing experience.
 
-**Key Technologies Used:**
+**Technologies Used:**
 - React
 - TypeScript
 - SASS
