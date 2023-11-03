@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.7918a735.chunk.css",
-    "main.js": "./static/js/main.c6560051.chunk.js",
-    "main.js.map": "./static/js/main.c6560051.chunk.js.map",
+    "main.css": "./static/css/main.91530f97.chunk.css",
+    "main.js": "./static/js/main.abcd2847.chunk.js",
+    "main.js.map": "./static/js/main.abcd2847.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
     "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
     "static/js/2.9781c897.chunk.js": "./static/js/2.9781c897.chunk.js",
     "static/js/2.9781c897.chunk.js.map": "./static/js/2.9781c897.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.7918a735.chunk.css.map": "./static/css/main.7918a735.chunk.css.map",
+    "static/css/main.91530f97.chunk.css.map": "./static/css/main.91530f97.chunk.css.map",
     "static/js/2.9781c897.chunk.js.LICENSE.txt": "./static/js/2.9781c897.chunk.js.LICENSE.txt",
     "static/media/Accessories.b914f412.png": "./static/media/Accessories.b914f412.png",
     "static/media/Navbar.scss": "./static/media/Magnificer.66a1fd86.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.8c9895b1.js",
     "static/js/2.9781c897.chunk.js",
-    "static/css/main.7918a735.chunk.css",
-    "static/js/main.c6560051.chunk.js"
+    "static/css/main.91530f97.chunk.css",
+    "static/js/main.abcd2847.chunk.js"
   ]
 }
