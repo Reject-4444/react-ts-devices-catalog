@@ -1,10 +1,10 @@
 **Project Description:**
 
-**react-devices-catalog** is a robust internet storefront built using React, TypeScript, SASS, classnames, and react-router-dom. It serves as a comprehensive online marketplace for electronic devices, providing users with a seamless shopping experience and a wide range of products to choose from. The application boasts an intuitive user interface and interactive features that enable users to browse and purchase devices effortlessly.
+**react-devices-catalog** is an engaging internet storefront developed using React, TypeScript, SASS, classnames, and react-router-dom. The application serves as an immersive platform where users can explore a curated selection of electronic devices, including smartphones, tablets, and related accessories. It allows users to add items to their favorites and shopping cart, with all data cached in the local storage, ensuring the preservation of selected items even after page reloads.
 
-The integration of TypeScript ensures a reliable and efficient development process, reducing the likelihood of errors and enhancing the overall user experience. SASS has been utilized to streamline the styling process, resulting in well-structured and easily maintainable CSS code. Leveraging the classnames library allows for dynamic class assignment, ensuring the responsiveness and adaptability of the application across different devices and screen sizes.
+The integration of TypeScript ensures a robust and efficient development process, minimizing potential errors and enhancing the overall user experience. Leveraging SASS, the project maintains well-structured and easily maintainable CSS code, contributing to an appealing and intuitive user interface. The dynamic class assignment facilitated by the classnames library ensures the application's responsiveness and adaptability across diverse screen sizes and devices.
 
-Additionally, the inclusion of react-router-dom enables smooth navigation and efficient routing within the internet marketplace, enabling users to seamlessly explore various product categories and make informed purchase decisions.
+Moreover, the inclusion of react-router-dom facilitates seamless navigation, enabling users to explore various product categories, add items to favorites and the cart, and experience a seamless and interactive browsing experience.
 
 The project's repository can be accessed via the following link: [https://github.com/Reject-4444/react-ts__devices-catalog](https://github.com/Reject-4444/react-ts__devices-catalog).
 
