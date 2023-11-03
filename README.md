@@ -1,7 +1,5 @@
 **Project Description:**
 
-Repository here: https://github.com/Reject-4444/react-ts__devices-catalog.
-
 Live version of the online store deployed for demonstration purposes: https://reject-4444.github.io/react-ts__devices-catalog/.
 
 react-devices-catalog is an interactive online store built using popular web technologies such as React, TypeScript, SASS, classnames, and react-router-dom. The platform showcases a collection of electronic devices like smartphones, tablets, and accessories, allowing users to browse and add items to their favorites and shopping cart. The use of local storage ensures that selected items persist even after refreshing the page.
