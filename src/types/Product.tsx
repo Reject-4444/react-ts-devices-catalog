@@ -13,12 +13,6 @@ export interface Product {
   amout?: number;
 }
 
-export enum Sort {
-  Name = 'name',
-  Age = 'age',
-  Price = 'price',
-}
-
 export interface ProductDetails {
   additionalFeatures: string;
   android: {
