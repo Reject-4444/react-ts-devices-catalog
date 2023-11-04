@@ -1,4 +1,4 @@
-**Live version of the online store deployed for demonstration purposes:** https://reject-4444.github.io/react-ts__devices-catalog/.
+**Live version:** https://reject-4444.github.io/react-ts__devices-catalog/.
 
 **Technologies Used:**
 - React
