@@ -1,4 +1,4 @@
-**Live version:** [devices catalog](https://reject-4444.github.io/react-ts__devices-catalog/)
+**Live version:** [Devices catalog](https://reject-4444.github.io/react-ts__devices-catalog/)
 
 **Technologies Used:**
 - React
