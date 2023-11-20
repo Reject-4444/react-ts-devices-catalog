@@ -77,11 +77,12 @@
     cursor: pointer;
     background-color: transparent;
     @include hover(border, 1px solid $footerButtonBorderColor);
+    background: url(../../images/arrow-top.svg) no-repeat center;
 
     &:active {
-      border: none;
+      border: $navbarLinkColor;
+      background: url(../../images/arrow-top-white.svg) no-repeat center;
       background-color: $navbarLinkColor;
-      color: #fff;
     }
   }
 }

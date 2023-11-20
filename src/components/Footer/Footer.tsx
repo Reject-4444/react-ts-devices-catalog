@@ -39,12 +39,11 @@ export const Footer = () => {
           <div className="footer-button-wrapper">
             Back to top
             <button
+              aria-label="move-to-top"
               type="button"
               className="footer-button"
               onClick={handleButtonClick}
-            >
-              ^
-            </button>
+            />
           </div>
         </div>
       </div>

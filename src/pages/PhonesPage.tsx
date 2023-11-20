@@ -53,7 +53,7 @@ export const PhonesPage = () => {
           />
           <div className="devices__way devices__way-middle" />
           <div className="devices__way-devices">
-            Phones
+            phones
           </div>
         </div>
         <h1 className="devices__title">Mobile phones</h1>

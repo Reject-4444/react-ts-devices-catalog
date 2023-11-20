@@ -46,7 +46,7 @@ export const AccessoriesPage = () => {
           />
           <div className="devices__way devices__way-middle" />
           <div className="devices__way-devices">
-            Accessories
+            accessories
           </div>
         </div>
         <h1 className="devices__title">Accessories</h1>

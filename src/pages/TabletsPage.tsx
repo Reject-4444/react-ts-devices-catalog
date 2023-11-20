@@ -46,7 +46,7 @@ export const TabletsPage = () => {
           />
           <div className="devices__way devices__way-middle" />
           <div className="devices__way-devices">
-            Tablets
+            tablets
           </div>
         </div>
         <h1 className="devices__title">Tablets</h1>
