@@ -34,7 +34,7 @@ export const AccessoriesPage = () => {
   const [searchParams] = useSearchParams();
 
   return (
-    <div className="container">
+    <div className="container container--acc">
       <div className="devices">
         <div className="devices__way-wrapper">
           <Link
